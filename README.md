@@ -9,7 +9,7 @@
 * Open your terminal and go to the directory where you have downloaded the above file and do this: pip install [FILENAME]
 
 
-## GitHub Repositories for the projects demonstarated in the Workshop
+## GitHub Repositories for the projects demonst+rated in the Workshop
 * [Captcha Recognition](https://github.com/soumil505/Captcha-recognition)
 * Handwriting Recognition: [Link1](https://github.com/albharath1999/Tensorflow_Tutorial-MNIST) or [Link2](https://github.com/saranshmanu/Handwriting-Recognition-using-CNN)
 * [Deep Dream](https://github.com/hhk998402/GoogleDeepDream)

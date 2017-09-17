@@ -10,6 +10,6 @@
 
 
 ## GitHub Repositories for the projects demonstarated in the Workshop
-* 1. Captcha Recognition: https://github.com/soumil505/Captcha-recognition
-* 2. Handwriting Recognition: [Link1](https://github.com/saranshmanu/Handwriting-Recognition-using-CNN) or [Link2](https://github.com/albharath1999/Tensorflow_Tutorial-MNIST)
-* 3. Deep Dream: 
+* Captcha Recognition: https://github.com/soumil505/Captcha-recognition
+* Handwriting Recognition: [Link1](https://github.com/saranshmanu/Handwriting-Recognition-using-CNN) or [Link2](https://github.com/albharath1999/Tensorflow_Tutorial-MNIST)
+* Deep Dream: 
